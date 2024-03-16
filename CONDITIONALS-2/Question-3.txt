@@ -1,0 +1,3 @@
+Output :-
+
+x and y are equal
